@@ -6,7 +6,7 @@
 // 6- resolve negative mounth
 // 7- resolve negative year
 //////// 8- show the age ////////
-
+passwaord=123
 document
   .getElementById('age-form')
   .addEventListener('submit', function (event) {
